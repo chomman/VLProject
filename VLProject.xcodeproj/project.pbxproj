@@ -35,6 +35,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4A1DC6BC2509155B005FE845 /* 성남시수정구양지동.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = "성남시수정구양지동.gpx"; path = "../../../Desktop/gpx/성남시수정구양지동.gpx"; sourceTree = "<group>"; };
+		4A1DC6BD25091799005FE845 /* 서울시금천구가산동.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = "서울시금천구가산동.gpx"; path = "../../../Desktop/gpx/서울시금천구가산동.gpx"; sourceTree = "<group>"; };
+		4A20BE2F25066D03009A205F /* 강원도태백시상장동.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = "강원도태백시상장동.gpx"; path = "../../../Desktop/gpx/강원도태백시상장동.gpx"; sourceTree = "<group>"; };
 		4A33E8FB2503DB2800E78C0E /* VLProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VLProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A33E8FE2503DB2800E78C0E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4A33E9002503DB2800E78C0E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +52,17 @@
 		4A33E91C2503DB2B00E78C0E /* VLProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VLProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A33E9202503DB2B00E78C0E /* VLProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VLProjectUITests.swift; sourceTree = "<group>"; };
 		4A33E9222503DB2B00E78C0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A33E92E2503E09100E78C0E /* 평택시세교동.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = "평택시세교동.gpx"; path = "../../../Desktop/gpx/평택시세교동.gpx"; sourceTree = "<group>"; };
+		4A6495E52504A919003FE402 /* 인천연수구송도3동.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = "인천연수구송도3동.gpx"; path = "../../../Desktop/gpx/인천연수구송도3동.gpx"; sourceTree = "<group>"; };
+		4A6495E62504B971003FE402 /* 일산서구일산2동.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = "일산서구일산2동.gpx"; path = "../../../Desktop/gpx/일산서구일산2동.gpx"; sourceTree = "<group>"; };
+		4A6495E725052FD6003FE402 /* 파주시동패동.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = "파주시동패동.gpx"; path = "../../../Desktop/gpx/파주시동패동.gpx"; sourceTree = "<group>"; };
+		4A6495E825065FD1003FE402 /* 서울시관악구행운동.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = "서울시관악구행운동.gpx"; path = "../../../Desktop/gpx/서울시관악구행운동.gpx"; sourceTree = "<group>"; };
+		4A6DA5C625091E6100A07F02 /* 서울시영등포구당산동.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = "서울시영등포구당산동.gpx"; path = "../../../Desktop/gpx/서울시영등포구당산동.gpx"; sourceTree = "<group>"; };
+		4AB647B52516D9B00019774C /* 서울시관악구청림동.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = "서울시관악구청림동.gpx"; path = "../../../Desktop/gpx/서울시관악구청림동.gpx"; sourceTree = "<group>"; };
+		4AD87536251899A100EBD34E /* 서울시성동구옥수동.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = "서울시성동구옥수동.gpx"; path = "../../../Desktop/gpx/서울시성동구옥수동.gpx"; sourceTree = "<group>"; };
+		4AF217962507184400D2F2C5 /* 파주시운정3동.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = "파주시운정3동.gpx"; path = "../../../Desktop/gpx/파주시운정3동.gpx"; sourceTree = "<group>"; };
+		4AF724392506758100F13360 /* 경기도안양시안양3동.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = "경기도안양시안양3동.gpx"; path = "../../../Desktop/gpx/경기도안양시안양3동.gpx"; sourceTree = "<group>"; };
+		4AF7243A250676D400F13360 /* 서울시중랑구신내동.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = "서울시중랑구신내동.gpx"; path = "../../../Desktop/gpx/서울시중랑구신내동.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +93,20 @@
 		4A33E8F22503DB2800E78C0E = {
 			isa = PBXGroup;
 			children = (
+				4AD87536251899A100EBD34E /* 서울시성동구옥수동.gpx */,
+				4AB647B52516D9B00019774C /* 서울시관악구청림동.gpx */,
+				4A6DA5C625091E6100A07F02 /* 서울시영등포구당산동.gpx */,
+				4A1DC6BD25091799005FE845 /* 서울시금천구가산동.gpx */,
+				4A1DC6BC2509155B005FE845 /* 성남시수정구양지동.gpx */,
+				4AF217962507184400D2F2C5 /* 파주시운정3동.gpx */,
+				4AF7243A250676D400F13360 /* 서울시중랑구신내동.gpx */,
+				4AF724392506758100F13360 /* 경기도안양시안양3동.gpx */,
+				4A20BE2F25066D03009A205F /* 강원도태백시상장동.gpx */,
+				4A6495E825065FD1003FE402 /* 서울시관악구행운동.gpx */,
+				4A6495E725052FD6003FE402 /* 파주시동패동.gpx */,
+				4A6495E62504B971003FE402 /* 일산서구일산2동.gpx */,
+				4A6495E52504A919003FE402 /* 인천연수구송도3동.gpx */,
+				4A33E92E2503E09100E78C0E /* 평택시세교동.gpx */,
 				4A33E8FD2503DB2800E78C0E /* VLProject */,
 				4A33E9142503DB2B00E78C0E /* VLProjectTests */,
 				4A33E91F2503DB2B00E78C0E /* VLProjectUITests */,
@@ -436,6 +464,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"VLProject/Preview Content\"";
+				DEVELOPMENT_TEAM = L5Y83A35M2;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = VLProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -455,6 +484,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"VLProject/Preview Content\"";
+				DEVELOPMENT_TEAM = L5Y83A35M2;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = VLProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
